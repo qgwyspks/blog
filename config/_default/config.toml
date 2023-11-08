@@ -1,0 +1,11 @@
+baseurl = "https://blog.54/" # "https://qgwyspks.github.io/"
+languageCode = "zh-Hans"
+paginate = 5
+title = "54"
+theme = "hugo-theme-stack"
+
+defaultContentLanguage = "zh-cn"
+
+hasCJKLanguage = false
+
+disqusShortname = "hugo-theme-stack"

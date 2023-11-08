@@ -1,4 +1,4 @@
-baseurl = "https://blog.54/" # "https://qgwyspks.github.io/"
+baseurl = "https://blog-54/" # "https://qgwyspks.github.io/"
 languageCode = "zh-Hans"
 paginate = 5
 title = "54"
